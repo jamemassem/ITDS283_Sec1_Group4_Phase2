@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "289689619878",
+    "project_id": "mu-eng-484mx9",
+    "storage_bucket": "mu-eng-484mx9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289689619878:android:0c509cdaacfd101cd05367",
+        "android_client_info": {
+          "package_name": "io.flutterflow.quizgametemplate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289689619878-8fh3vtfabbatkto9ls5fvt1p34dv5g0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeZfParRY4IisKJLwZPjyftWYxSuxusL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289689619878-8fh3vtfabbatkto9ls5fvt1p34dv5g0d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "289689619878-hgbsc4h2kigfvh253amjgmmph3fqah4q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.flutterflow.quizgametemplate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
