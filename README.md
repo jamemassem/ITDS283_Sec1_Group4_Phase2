@@ -1,1 +1,7 @@
-# ITDS283_Sec1_Group4_Phase2
+# MU-ENG
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
